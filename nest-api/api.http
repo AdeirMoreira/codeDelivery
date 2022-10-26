@@ -1,0 +1,6 @@
+# Get All
+GET http://localhost:3000/routes
+
+###
+GET http://localhost:3000/routes/3/start
+
